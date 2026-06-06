@@ -1,10 +1,14 @@
-#para{
-    background-color: rgb(207, 247, 247);
-    
+#para {
+    background-color: brown;
+    color: azure;
+    display: flex;
+    text-align: center;
 }
-h1{
-    color: blueviolet;
+
+h1 {
+    color: yellow;
 }
-h2{
-    color: rgb(218, 221, 34);
+
+.myclass {
+    background-color: blue;
 }
